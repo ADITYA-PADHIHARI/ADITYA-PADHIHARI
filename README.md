@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on enhancing my cybersecurity skills<br><br> Exploring the intersection of AWS Cloud Infrastructure and proactive threat hunting.<br><br> Ask me about cryptography, network security, or my experience in the National Entrepreneurship Challenge.<br>
+I’m currently working on enhancing my cybersecurity skills<br><br> Exploring the intersection of AWS Cloud Infrastructure and proactive threat hunting.<br><br> Ask me about cryptography, network security, Python.<br>
 
 
 ## 🌐 Socials:
